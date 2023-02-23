@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with: Improving and fleshing out https://musicChartMaker.com
 - 💬 Ask me about: Frontend developer experience :)
 - 📫 How to reach me: github@danielTurcich.com
-- 😄 Pronouns: They/ He/ Any
+- 😄 Pronouns: They/ He/ She
 - ⚡ Fun fact: I was the first person to do a VR speedrun at a major Speedrunning event :)
