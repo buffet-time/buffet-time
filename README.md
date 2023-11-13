@@ -6,4 +6,4 @@
 - 💬 Ask me about: Frontend developer experience :)
 - 📫 How to reach me: github@danielTurcich.com
 - 😄 Pronouns: They/ He/ She
-- ⚡ Fun fact: I was the first person to do a VR speedrun at a major Speedrunning event :)
+- ⚡ Fun fact: [I was the first person to do a VR speedrun at a major Speedrunning event :)](https://www.youtube.com/watch?v=LPCMGHkR5x0&t=7s)
