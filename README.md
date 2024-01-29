@@ -1,4 +1,4 @@
-### Hello! I'm Daniel Turcich a passionate TypeScript developer 👋
+### Hello! I'm Daniel Turčić a passionate TypeScript developer 👋
 
 - 🔭 I’m currently working on: https://Leaderboards.gg & https://musicChartMaker.com
 - 🌱 I’m currently learning: How to be a good father and partner
