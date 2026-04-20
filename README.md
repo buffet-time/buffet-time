@@ -1,5 +1,6 @@
 ### Hello! I'm Daniel [Turčić](https://drive.google.com/file/d/10a3ohorI5hlyl_cjFVIwvC2m4NYvUjV7/view) a passionate Software Engineer 👋
 
+- ❌ Not using LLMs
 - 🔭 I’m currently working on: https://Leaderboards.gg & https://musicChartMaker.com
 - 🌱 I’m currently learning: How to be a good father and partner
 - 🤔 I’m looking for help with: Improving and fleshing out https://musicChartMaker.com
